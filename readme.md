@@ -1,4 +1,4 @@
-Development Challenge - 33Across
+Development Challenge
 
 Tic Tac Toe in HTML, CSS & JavaScript
 
