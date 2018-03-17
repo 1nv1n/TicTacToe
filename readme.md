@@ -1,8 +1,8 @@
-Development Challenge
+## Tic Tac Toe - Development Challenge
 
-Tic Tac Toe in HTML, CSS & JavaScript
+### Tic Tac Toe in HTML, CSS & JavaScript
 
-Problem Statement:
+#### Problem Statement:
 
 A simple tic-tac-toe application using HTML5, CSS, and JavaScript that runs in the
 browser. The UI for the board should be a grid of 3 rows and 3 columns. Each space on the
@@ -15,7 +15,7 @@ The application should focus on code quality and design. It does not need to inc
 for determining if there is a winner or tie—the user would do this. The application should not
 include a backend and not rely on any frameworks (e.g. React, Bootstrap, Angular, Vue, etc.).
 
-Developer's/Solution's Ideal Key Points:
+#### Developer's/Solution's Ideal Key Points:
 
 ● Ability to design and implement an appropriate architecture.
 
@@ -25,11 +25,11 @@ Developer's/Solution's Ideal Key Points:
 
 ● Proficiency in creating a responsive web design layout.
 
-Usage:
+#### Usage:
 
 Can be run directly from source by opening up /tictactoe/src/index.html in a browser.
 
-Components:
+#### Components:
 
 ● HTML5: index.html houses the wrapper for the game component as well as providing basic game functionality (Clear/Restart)
 
@@ -37,7 +37,7 @@ Components:
 
 ● CSS: styles.css houses all of the style rules for the site.
 
-Resources Utilized:
+#### Resources Utilized:
 
 ● https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
@@ -49,7 +49,7 @@ Resources Utilized:
 
 ● https://stackoverflow.com/
 
-Pending To-Dos:
+#### Pending To-Dos:
 
 ● Unit Testing.
 
